@@ -48,7 +48,7 @@ Node* minVal(Node * root ){
 Node* deleteToBst(Node* root , int d){
 
     if(root == NULL)
-    return root;
+    return NULL;
 
     if(root ->data  == d){
         // 0 child
