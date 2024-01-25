@@ -128,5 +128,7 @@ int main(){
     }
     cout<<endl;
  
+//   in stl heaps work as priority queue that defaul makes max heap
+
     return 0;
 }
